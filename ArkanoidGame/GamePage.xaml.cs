@@ -100,7 +100,7 @@ namespace ArkanoidGame
 
         public void RespawnBoost(int indexOfBall) // с вероятностью 10% выпадет бустер
         {
-             if (Tools.RundomNumber(1, 10) == 5)
+            if (Tools.RundomNumber(1, 10) == 5)
             {
                 if (myCanvas.Children.OfType<Ellipse>().Where(element => element.Tag.ToString() == "Booster").Count() == 0)
                     booster = new Booster(balls[indexOfBall], ref myCanvas, booster);

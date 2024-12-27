@@ -12,7 +12,7 @@
         <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Height="648">
             <TextBlock Text="1) Цель игры состоит в том, чтобы пройти 9 уровней." FontSize="30" TextAlignment="Left" Foreground="#FFF6F7F9"/>
             <TextBlock Text="2) Вы можете перемещаться с помощью клавиш A и D на вашей клавиатуре." FontSize="30" TextAlignment="Left" Foreground="#FFF6F7F9"/>
-            <TextBlock Text="3) Нажмите пробел, чтобы выстрелить по мячу." FontSize="30" TextAlignment="Left" Foreground="#FFF6F7F9"/>
+            <TextBlock Text="3) Нажмите пробел, чтобы мяч полетел вверх." FontSize="30" TextAlignment="Left" Foreground="#FFF6F7F9"/>
             <TextBlock Text="4) В игре есть 8 типов блоков с количеством очков от 50 до 120:" FontSize="30" TextAlignment="Left" Foreground="#FFF6F7F9"/>
             <Image Source="Images/8-blocks.png"/>
             <TextBlock Text="5) Есть также 2 специальных блока: 1 - 50 очков, но требуется 2 попадания:" FontSize="30" TextAlignment="Left" Foreground="#FFF6F7F9"/>
